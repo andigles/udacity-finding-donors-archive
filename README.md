@@ -1,22 +1,16 @@
-# Finding Donors — In Progress (Udacity)
+# Archived (Udacity fork)
+
+This repository is an archived fork of Udacity’s supervised learning project.
+
+✅ For the polished, portfolio-ready version (clean structure, runnable setup, report):  
+➡️ [https://github.com/andigles/finding-donors-ml](https://github.com/andigles/finding-donors-ml)
 
 **Scope:** Udacity *Introduction to Machine Learning with PyTorch* project.  
 This repo tracks my local work on the notebook at `starter/finding_donors.ipynb`.
 
 ## Status
-- Notebook: in progress — completing the TODOs step by step.
-- Repo hygiene only (no CI or extra scripts yet).
 
-## Run locally (quick)
-```bash
-python -m venv .venv
-# Windows Git Bash:
-source .venv/Scripts/activate
-pip install numpy pandas scikit-learn jupyter
-jupyter lab     # then open starter/finding_donors.ipynb
-# or:
-jupyter notebook starter/finding_donors.ipynb
-```
+- Notebook: Completed
 
 > For the original Udacity project notes, see `starter/README.md`.
 
